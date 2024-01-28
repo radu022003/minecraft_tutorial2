@@ -1,0 +1,21 @@
+{
+    "name": "MinecraftEDUtutorials",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "conditionals.md"
+    ],
+    "testFiles": [ 
+    ],
+    "public": true,
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
