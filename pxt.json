@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "functions.md"
+        "functions.md",
+        "conditionals.md"
     ],
     "testFiles": [
 	"test.js" 
