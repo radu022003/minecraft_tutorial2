@@ -12,3 +12,12 @@ description of the first step
 ## Second Step
 
 description of the second step
+
+## Say something 
+
+use the ``||Player: say||``
+
+### ~ tutorialhint
+``` blocks
+         player.say()
+```
