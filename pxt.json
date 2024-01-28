@@ -12,11 +12,11 @@
         "conditionals.md"
     ],
     "testFiles": [
-        "test.js" 
+	"test.js" 
     ],
     "public": true,
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprjprj"
 }
