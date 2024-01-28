@@ -17,7 +17,16 @@ description of the second step
 
 use the ``||Player: say||``
 
-### ~ tutorialhint
+
 ``` blocks
          player.say()
+```
+
+## Say something 
+
+use the ``||Agent: agent teleport to player||``
+
+
+``` blocks
+         agent.teleportToPlayer()
 ```
