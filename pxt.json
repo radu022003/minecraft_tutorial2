@@ -11,7 +11,8 @@
         "main.ts",
         "conditionals.md"
     ],
-    "testFiles": [ 
+    "testFiles": [
+        "test.js" 
     ],
     "public": true,
     "supportedTargets": [
